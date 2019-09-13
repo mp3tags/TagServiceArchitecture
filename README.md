@@ -42,5 +42,10 @@ Release: [file-respository](https://github.com/mp3tags/file-respository)
 
 It`s gRPC service.  
 
+What use:
+1. MySQL version 5.7.27  
+2. Proto version 3
+3. Golang version 1.12  
+  
 Proto: [request-respository-proto](https://github.com/mp3tags/request-respository-proto)  
 Release: [request-respository](https://github.com/mp3tags/request-respository)    
