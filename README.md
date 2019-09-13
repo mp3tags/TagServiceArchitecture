@@ -14,7 +14,7 @@ You can see this project at the link:
 
   * [gateway-user](#gateway-user)
   * [tag-usecase](#tag-usecase)
-  * [file-repository](#file-respository)
+  * [file-repository](#file-repository)
   * [request-repository](#request-repository)
   
 # gateway-user
@@ -31,21 +31,21 @@ It`s gRPC service.
 Proto: [tag-usecase-proto](https://github.com/mp3tags/tag-usecase-proto)  
 Release: [tag-usecase](https://github.com/mp3tags/tag-usecase)
 
-# file-respository
+# file-repository
 
 It`s gRPC service.  
 
-Proto: [file-respository-proto](https://github.com/mp3tags/file-respository-proto)  
-Release: [file-respository](https://github.com/mp3tags/file-respository)  
+Proto: [file-repository-proto](https://github.com/mp3tags/file-respository-proto)  
+Release: [file-repository](https://github.com/mp3tags/file-respository)  
 
-# request-respository
+# request-repository
 
 It`s gRPC service.  
 
-What use:
+What we use:
 1. MySQL version 5.7.27  
 2. Proto version 3
 3. Golang version 1.12  
   
-Proto: [request-respository-proto](https://github.com/mp3tags/request-respository-proto)  
-Release: [request-respository](https://github.com/mp3tags/request-respository)    
+Proto: [request-repository-proto](https://github.com/mp3tags/request-respository-proto)  
+Release: [request-repository](https://github.com/mp3tags/request-respository)    
