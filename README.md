@@ -21,7 +21,7 @@ You can see this project at the link:
 
 We use go-swagger for gateway api code generation  
   
-Specifiaction: [gateway-user-specification](https://github.com/mp3tags/gateway-user-specification)  
+Specification: [gateway-user-specification](https://github.com/mp3tags/gateway-user-specification)  
 Release: [gateway-user](https://github.com/mp3tags/gateway-user)  
 
 # tag-usecase
